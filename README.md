@@ -10,6 +10,7 @@ The following commands are available: ls, cd, cat, pwd, mkdir, rm, touch, echo, 
 The upload command copies your data on the cloud, so once you delete it you can still get it back using sync command, which downloads the data back from the cloud.
 
 Format of commands:
+
 echo message - print the message on the screen
 
 echo -POO message - pop up the message in a new window
